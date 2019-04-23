@@ -1,0 +1,20 @@
+C:\Users\Filip\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csprojResolveAssemblyReference.cache
+C:\Users\Filip\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\Filip\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\Filip\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\Filip\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\Filip\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\Users\Filip\source\repos\Web Browser\Web Browser\bin\Debug\SharpDX.dll
+C:\Users\Filip\source\repos\Web Browser\Web Browser\bin\Debug\SlimDX.dll
+C:\Users\Filip\source\repos\Web Browser\Web Browser\bin\Debug\SharpDX.xml
+C:\Users\Filip\source\repos\Controller\Controller\bin\Debug\Web Browser.exe.config
+C:\Users\Filip\source\repos\Controller\Controller\bin\Debug\Web Browser.exe
+C:\Users\Filip\source\repos\Controller\Controller\bin\Debug\Web Browser.pdb
+C:\Users\Filip\source\repos\Controller\Controller\bin\Debug\SharpDX.dll
+C:\Users\Filip\source\repos\Controller\Controller\bin\Debug\SlimDX.dll
+C:\Users\Filip\source\repos\Controller\Controller\bin\Debug\SharpDX.xml
+C:\Users\Filip\source\repos\Controller\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Filip\source\repos\Controller\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Controller\Controller\obj\Debug\Web Browser.exe
+C:\Users\Filip\source\repos\Controller\Controller\obj\Debug\Web Browser.pdb
